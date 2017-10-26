@@ -48,7 +48,6 @@ export default {
       }
     }
     this.pageHeight = document.getElementById('PageCoreElement').offsetHeight - document.getElementById('intro').offsetHeight
-    console.log(this.pageHeight)
   }
 }
 </script>
